@@ -2,8 +2,8 @@
 
 Evde ve ekipmanla antrenman takibi için kurulum gerektirmeyen bir web uygulaması (PWA). **Hesap yok, sunucu yok, izleme yok:** kayıtların yalnızca kendi cihazında kalır. Telefona ya da bilgisayara uygulama gibi kurulur, internetsiz de çalışır.
 
-> **Canlı uygulama:** *(yayınladıktan sonra adresi buraya yaz, örn. `https://KULLANICI-ADIN.github.io/DEPO-ADIN/`)*
-
+> **Canlı uygulama:** https://ahmet-kiran.github.io/Antrenman-App/
+> 
 ## Neler var?
 - **Haftalık plan** ve güne dokununca hareketleri görme, ekleme, çıkarma
 - **148 hareket:** güç, kardiyo, ısınma, soğuma ve esneme; ekipman ve dikkat (diz, bel, omuz, bilek) filtreleri; hareket başına açıklama
